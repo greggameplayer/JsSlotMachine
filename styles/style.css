@@ -1,0 +1,80 @@
+body {
+ background-image: url(../images/fondsite.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
+#slotmachinesection {
+  position: relative;
+  z-index: 0;
+  top: +260px;
+}
+#banditmanchottitle {
+  text-align: center;
+  position: relative;
+  z-index: 0;
+  top: -15px;
+}
+header {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  background-color:white;
+  box-shadow: 0px 3px 3px;
+}
+footer {
+  position: absolute;
+  top: 93.8%;
+  left: 0px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px -2px 5px;
+}
+#credit {
+  position: absolute;
+  top: -70px;
+  left: 595px;
+  font-size: 2rem;
+  color: white;
+  font-style: italic;
+  text-shadow: 0px 5px 5px black;
+}
+#bet{
+  position: absolute;
+  top: -70px;
+  left: 1210px;
+  font-size: 2rem;
+  font-style: italic;
+  color: white;
+  text-shadow: 0px 5px 5px black;
+}
+#spinbutton {
+  position: relative;
+  z-index: 0;
+  left: +1258px;
+}
+#canvasslot1 {
+  position: absolute;
+  top: 40px;
+  left: 613px;
+  width: 213px;
+  height: 267px;
+  z-index: 2;
+}
+#canvasslot2 {
+  position: absolute;
+  top: 40px;
+  left: 846.5px;
+  width: 213px;
+  height: 267px;
+  z-index: 2;
+}
+#canvasslot3 {
+  position: absolute;
+  top: 40px;
+  left: 1080px;
+  width: 213px;
+  height: 267px;
+  z-index: 2;
+}
