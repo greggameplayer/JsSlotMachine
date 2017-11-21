@@ -16213,6 +16213,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -16227,6 +16423,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -16265,6 +16657,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -16303,6 +16891,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -16341,6 +17125,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -16733,6 +17713,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -16747,6 +17923,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -16785,6 +18157,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -16823,6 +18391,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -16861,6 +18625,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -17253,6 +19213,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -17267,6 +19423,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -17305,6 +19657,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -17343,6 +19891,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -17381,6 +20125,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -17773,6 +20713,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -17787,6 +20923,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -17825,6 +21157,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -17863,6 +21391,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -17901,6 +21625,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -18293,6 +22213,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -18307,6 +22423,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -18345,6 +22657,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -18383,6 +22891,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -18421,6 +23125,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -19144,6 +24044,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -19158,6 +24254,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -19196,6 +24488,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -19234,6 +24722,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -19272,6 +24956,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -19664,6 +25544,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -19678,6 +25754,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -19716,6 +25988,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -19754,6 +26222,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -19792,6 +26456,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -20184,6 +27044,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -20198,6 +27254,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -20236,6 +27488,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -20274,6 +27722,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -20312,6 +27956,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -20704,6 +28544,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -20718,6 +28754,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -20756,6 +28988,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -20794,6 +29222,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -20832,6 +29456,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -21224,6 +30044,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -21238,6 +30254,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -21276,6 +30488,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -21314,6 +30722,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -21352,6 +30956,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -22075,6 +31875,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -22089,6 +32085,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -22127,6 +32319,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -22165,6 +32553,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -22203,6 +32787,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -22595,6 +33375,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -22609,6 +33585,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -22647,6 +33819,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -22685,6 +34053,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -22723,6 +34287,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -23115,6 +34875,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -23129,6 +35085,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -23167,6 +35319,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -23205,6 +35553,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -23243,6 +35787,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -23635,6 +36375,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -23649,6 +36585,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -23687,6 +36819,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -23725,6 +37053,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -23763,6 +37287,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
@@ -24155,6 +37875,202 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			 
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);			
 														},100);														
 													},100);														
@@ -24169,6 +38085,202 @@ function Spin()
 				},100);			
 			},100);	
 		} else if( slot3 == 2){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
@@ -24207,6 +38319,202 @@ function Spin()
 				},100);			
 			},100);				
 		} else if(slot3 == 3){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/clover.png", -20);
@@ -24245,6 +38553,202 @@ function Spin()
 				},100);			
 			},100);					
 		}else if(slot3 == 4){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/bells-32.png", -20);
@@ -24283,6 +38787,202 @@ function Spin()
 				},100);			
 			},100);				
 		}else if(slot3 == 5){
+			drawImages('canvasslot3', "images/lucky-seven.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/lucky-seven.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/lucky-seven.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/lucky-seven.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/lucky-seven.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/lucky-seven.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/lucky-seven.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/lucky-seven.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/lucky-seven.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/lucky-seven.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/lucky-seven.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/lucky-seven.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/lucky-seven.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/lucky-seven.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/lucky-seven.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/lucky-seven.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/lucky-seven.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/lucky-seven.png", 70);
+			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/Slot_Grapes.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/Slot_Grapes.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/Slot_Grapes.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/Slot_Grapes.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/Slot_Grapes.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/Slot_Grapes.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/Slot_Grapes.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/Slot_Grapes.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/Slot_Grapes.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/Slot_Grapes.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/Slot_Grapes.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/Slot_Grapes.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/Slot_Grapes.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/Slot_Grapes.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/Slot_Grapes.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/Slot_Grapes.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/Slot_Grapes.png", 70);
+			drawImages('canvasslot3', "images/clover.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/clover.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/clover.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/clover.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/clover.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/clover.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/clover.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/clover.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/clover.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/clover.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/clover.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/clover.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/clover.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/clover.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/clover.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/clover.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/clover.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/clover.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/clover.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/clover.png", 70);
+			drawImages('canvasslot3', "images/bells-32.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/bells-32.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/bells-32.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/bells-32.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/bells-32.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/bells-32.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/bells-32.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/bells-32.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/bells-32.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/bells-32.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/bells-32.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/bells-32.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/bells-32.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/bells-32.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/bells-32.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/bells-32.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/bells-32.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/bells-32.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/bells-32.png", 70);
+				drawImages('canvasslot3', "images/cherry.png", -25);
+			setTimeout(function(){
+            drawImages('canvasslot3', "images/cherry.png", -20);
+				setTimeout(function(){
+					drawImages('canvasslot3', "images/cherry.png", -15);
+					setTimeout(function(){
+						drawImages('canvasslot3', "images/cherry.png", -10);	
+						setTimeout(function(){
+							drawImages('canvasslot3', "images/cherry.png", -5);	
+							setTimeout(function(){
+								drawImages('canvasslot3', "images/cherry.png", 0);	
+								setTimeout(function(){
+									drawImages('canvasslot3', "images/cherry.png", 5);
+									setTimeout(function(){
+										drawImages('canvasslot3', "images/cherry.png", 10);	
+										setTimeout(function(){
+											drawImages('canvasslot3', "images/cherry.png", 15);
+											setTimeout(function(){
+												drawImages('canvasslot3', "images/cherry.png", 20);	
+												setTimeout(function(){
+													drawImages('canvasslot3', "images/cherry.png", 25);	
+													setTimeout(function(){
+														drawImages('canvasslot3', "images/cherry.png", 30);	
+														setTimeout(function(){
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															setTimeout(function(){
+																drawImages('canvasslot3', "images/cherry.png", 40);
+																setTimeout(function(){
+																	drawImages('canvasslot3', "images/cherry.png", 45);
+																	setTimeout(function(){
+																		drawImages('canvasslot3', "images/cherry.png", 50);
+																		setTimeout(function(){
+																			drawImages('canvasslot3', "images/cherry.png", 55);
+																			setTimeout(function(){
+																				drawImages('canvasslot3', "images/cherry.png", 60);
+																				setTimeout(function(){
+																					drawImages('canvasslot3', "images/cherry.png", 65);
+																					setTimeout(function(){
+																						drawImages('canvasslot3', "images/cherry.png", 70);
+																						//selection 3			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
             drawImages('canvasslot3', "images/cherry.png", -20);
