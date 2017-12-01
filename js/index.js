@@ -10929,7 +10929,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			 
+																									 
 			 
 			drawImages('canvasslot3', "images/lucky-seven.png", -25);
 			setTimeout(function(){
@@ -10955,19 +10955,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -11259,7 +11260,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
@@ -11286,18 +11287,19 @@ function Spin()
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;	
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -11589,7 +11591,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
@@ -11616,18 +11618,19 @@ function Spin()
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;	
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -11919,7 +11922,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
@@ -11946,18 +11949,19 @@ function Spin()
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;	
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -12249,7 +12253,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
@@ -12276,18 +12280,19 @@ function Spin()
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;	
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -12384,18 +12389,18 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -12910,7 +12915,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			 
+																									 
 			
 			drawImages('canvasslot3', "images/lucky-seven.png", -25);
 			setTimeout(function(){
@@ -12937,18 +12942,19 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;	
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -13240,7 +13246,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
@@ -13266,19 +13272,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -13570,7 +13577,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
@@ -13597,18 +13604,19 @@ function Spin()
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -13900,7 +13908,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
@@ -13927,18 +13935,19 @@ function Spin()
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -14230,7 +14239,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
@@ -14257,18 +14266,19 @@ function Spin()
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -14365,18 +14375,18 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -14891,7 +14901,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			 
+																									 
 			
 			drawImages('canvasslot3', "images/lucky-seven.png", -25);
 			setTimeout(function(){
@@ -14918,18 +14928,19 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -15221,7 +15232,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
@@ -15247,19 +15258,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -15551,7 +15563,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
@@ -15577,19 +15589,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/clover.png", 35);		
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/clover.png", 35);	
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -15881,7 +15894,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
@@ -15908,18 +15921,19 @@ function Spin()
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -16212,7 +16226,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
@@ -16238,19 +16252,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/cherry.png", 35);		
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -16347,18 +16362,18 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -16873,7 +16888,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			 
+																								 
 			 
 			drawImages('canvasslot3', "images/lucky-seven.png", -25);
 			setTimeout(function(){
@@ -16900,18 +16915,19 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -17203,7 +17219,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
@@ -17229,19 +17245,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -17533,7 +17550,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
@@ -17559,19 +17576,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/clover.png", 35);		
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/clover.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -17863,7 +17881,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
@@ -17889,19 +17907,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/bells-32.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -18193,7 +18212,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
@@ -18220,18 +18239,19 @@ function Spin()
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -18328,18 +18348,18 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -18854,7 +18874,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			 
+																								 
 			
 			drawImages('canvasslot3', "images/lucky-seven.png", -25);
 			setTimeout(function(){
@@ -18881,18 +18901,19 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -19184,7 +19205,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/Slot_Grapes.png", -25);
 			setTimeout(function(){
@@ -19211,18 +19232,19 @@ function Spin()
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															document.getElementById('spinbutton').disabled = false;
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -19514,7 +19536,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																								
 			
 			drawImages('canvasslot3', "images/clover.png", -25);
 			setTimeout(function(){
@@ -19540,19 +19562,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/clover.png", 35);		
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/clover.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -19844,7 +19867,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/bells-32.png", -25);
 			setTimeout(function(){
@@ -19870,19 +19893,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/bells-32.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/bells-32.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -20174,7 +20198,7 @@ function Spin()
 																					drawImages('canvasslot3', "images/cherry.png", 65);
 																					setTimeout(function(){
 																						drawImages('canvasslot3', "images/cherry.png", 70);
-																						document.getElementById('spinbutton').disabled = false;			
+																									
 			
 			drawImages('canvasslot3', "images/cherry.png", -25);
 			setTimeout(function(){
@@ -20200,19 +20224,20 @@ function Spin()
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/cherry.png", 35);	
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+															drawImages('canvasslot3', "images/cherry.png", 35);
+															document.getElementById('spinbutton').disabled = false;															
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
@@ -20309,17 +20334,17 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
 										},50);
 									},50);
 								},50);
@@ -20417,18 +20442,18 @@ function Spin()
 				},50);			
 			},50);					
 		}
-																					},50);																					
-																				},50);																		
-																			},50);																			
-																		},50);																		
-																	},50);																	
-																},50);																
-															},50);
-														},50);
-													},50);
-												},50);
-											},50);
-										},50);
+																					},100);																					
+																				},100);																		
+																			},100);																			
+																		},100);																		
+																	},100);																	
+																},100);																
+															},100);
+														},100);
+													},100);
+												},100);
+											},100);
+										},100);
 									},50);
 								},50);
 							},50);
