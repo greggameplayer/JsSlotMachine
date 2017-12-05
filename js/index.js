@@ -9022,6 +9022,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
 															document.getElementById('spinbutton').disabled = false;
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -9352,7 +9371,26 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
-															document.getElementById('spinbutton').disabled = false;															
+															document.getElementById('spinbutton').disabled = false;
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -9684,6 +9722,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
 															document.getElementById('spinbutton').disabled = false;
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -10015,6 +10072,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
 															document.getElementById('spinbutton').disabled = false;
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -10346,6 +10422,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
 															document.getElementById('spinbutton').disabled = false;
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -11337,7 +11432,26 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-															document.getElementById('spinbutton').disabled = false;															
+															document.getElementById('spinbutton').disabled = false;	
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -11669,6 +11783,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
 															document.getElementById('spinbutton').disabled = false;	
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12000,6 +12133,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
 															document.getElementById('spinbutton').disabled = false;	
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12331,6 +12483,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
 															document.getElementById('spinbutton').disabled = false;	
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12662,6 +12833,25 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
 															document.getElementById('spinbutton').disabled = false;	
+															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
+				window.alert("Vous avez gagné 2 fois la mise !");
+				credit = credit + (bet * 2);
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;
+			}else{
+			
+
+			}
+		} 
+		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+			window.alert("Vous avez gagné 10 fois la mise !");
+			credit = credit + (bet * 10);
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}
+		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+			window.alert("vous avez perdu !");
+			document.getElementById("credit").innerHTML = "Crédit: " + credit;
+		}															
 																					},100);																					
 																				},100);																		
 																			},100);																			
