@@ -78,3 +78,12 @@ footer {
   height: 267px;
   z-index: 2;
 }
+#rules{
+  position: absolute;
+  left: 135px;
+  top: -20px;
+    font-size: 1.8rem;
+  font-style: italic;
+  color: white;
+  text-shadow: 0 5px 5px black;
+}
