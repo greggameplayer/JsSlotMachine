@@ -697,26 +697,8 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("Vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -1047,26 +1029,8 @@ function Spin()
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("Vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -1397,26 +1361,8 @@ function Spin()
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -1747,26 +1693,8 @@ function Spin()
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -2097,26 +2025,8 @@ function Spin()
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -2778,26 +2688,8 @@ function Spin()
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -3128,26 +3020,8 @@ function Spin()
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -3478,26 +3352,8 @@ function Spin()
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -3828,26 +3684,8 @@ function Spin()
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -4178,26 +4016,8 @@ function Spin()
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
-															document.getElementById('spinbutton').disabled = false;	
-if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -4859,26 +4679,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -5209,26 +5011,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -5559,26 +5343,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -5909,26 +5675,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -6259,26 +6007,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -6940,26 +6670,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -7289,27 +7001,9 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);	
-															document.getElementById('spinbutton').disabled = false;		
-if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -7640,26 +7334,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -7990,26 +7666,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -8340,26 +7998,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -9020,27 +8660,9 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
-															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;														
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -9371,26 +8993,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
-															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;														
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -9721,26 +9325,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
-															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;														
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -10071,26 +9657,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
-															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -10421,26 +9989,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
-															document.getElementById('spinbutton').disabled = false;
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;														
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -11432,26 +10982,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
-															document.getElementById('spinbutton').disabled = false;	
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -11782,26 +11314,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
-															document.getElementById('spinbutton').disabled = false;	
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;														
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12132,26 +11646,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
-															document.getElementById('spinbutton').disabled = false;	
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12482,26 +11978,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
-															document.getElementById('spinbutton').disabled = false;	
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -12832,26 +12310,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
-															document.getElementById('spinbutton').disabled = false;	
-															if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
-			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
-				window.alert("Vous avez gagné 2 fois la mise !");
-				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			}else{
-			
-
-			}
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
-			window.alert("Vous avez gagné 10 fois la mise !");
-			credit = credit + (bet * 10);
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
-			window.alert("vous avez perdu !");
-			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}															
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -13513,6 +12973,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -13844,6 +13305,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -14175,6 +13637,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -14506,6 +13969,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -14837,6 +14301,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -15499,6 +14964,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -15830,6 +15296,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -16161,6 +15628,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -16492,6 +15960,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -16824,6 +16293,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -17486,6 +16956,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -17817,6 +17288,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -18148,6 +17620,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -18479,6 +17952,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -18810,6 +18284,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -19472,6 +18947,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -19803,6 +19279,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -20134,6 +19611,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -20465,6 +19943,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -20796,6 +20275,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -21786,6 +21266,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -22116,6 +21597,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -22446,6 +21928,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -22776,6 +22259,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
@@ -23106,6 +22590,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -23766,6 +23251,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -24096,6 +23582,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -24426,6 +23913,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -24756,6 +24244,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -25086,6 +24575,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -25745,7 +25235,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();															
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -26076,6 +25567,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -26406,6 +25898,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -26736,6 +26229,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -27066,6 +26560,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -27726,6 +27221,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -28056,6 +27552,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
@@ -28386,6 +27883,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -28716,6 +28214,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -29046,6 +28545,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -29706,6 +29206,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -30036,6 +29537,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -30366,6 +29868,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -30696,6 +30199,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -31026,6 +30530,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -32017,6 +31522,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -32347,6 +31853,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -32677,6 +32184,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -33007,6 +32515,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -33337,6 +32846,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -33997,6 +33507,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;															
 																					},100);																					
 																				},100);																		
@@ -34327,6 +33838,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -34657,6 +34169,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -34987,6 +34500,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -35317,6 +34831,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;
 																					},100);																					
 																				},100);																		
@@ -35977,6 +35492,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
@@ -36306,7 +35822,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);	
+															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();															
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -36637,6 +36154,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -36967,6 +36485,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -37297,6 +36816,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -37957,6 +37477,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -38287,6 +37808,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -38617,6 +38139,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -38947,6 +38470,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -39277,6 +38801,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -39937,6 +39462,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;																
 																					},100);																					
 																				},100);																		
@@ -40267,6 +39793,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -40597,6 +40124,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -40927,6 +40455,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -41257,6 +40786,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -42248,6 +41778,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -42578,6 +42109,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -42908,6 +42440,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -43238,6 +42771,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -43568,6 +43102,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -44228,6 +43763,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -44558,6 +44094,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -44888,6 +44425,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -45218,6 +44756,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -45548,6 +45087,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -46207,7 +45747,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 													setTimeout(function(){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
-															drawImages('canvasslot3', "images/lucky-seven.png", 35);	
+															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();															
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -46538,6 +46079,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -46869,6 +46411,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -47200,6 +46743,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -47531,6 +47075,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -48192,6 +47737,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -48523,6 +48069,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -48854,6 +48401,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -49185,6 +48733,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -49516,6 +49065,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -50177,6 +49727,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/lucky-seven.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/lucky-seven.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -50508,6 +50059,8 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/Slot_Grapes.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/Slot_Grapes.png", 35);
+															winlosenotif();
+															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
 																			},100);																			
@@ -50838,6 +50391,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/clover.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/clover.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -51169,6 +50723,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/bells-32.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/bells-32.png", 35);
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -51500,6 +51055,7 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 														drawImages('canvasslot3', "images/cherry.png", 30);	
 														setTimeout(function(){
 															drawImages('canvasslot3', "images/cherry.png", 35);	
+															winlosenotif();
 															document.getElementById('spinbutton').disabled = false;	
 																					},100);																					
 																				},100);																		
@@ -51825,15 +51381,19 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 				},50);			
 			},50);				
 		}
-
-		/*if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
+		
+	}
+	
+}
+/*function winlosenotif()
+{
+if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 			if(slot1 != slot2 || slot1 != slot3 || slot2 != slot3){
 				window.alert("Vous avez gagné 2 fois la mise !");
 				credit = credit + (bet * 2);
 				document.getElementById("credit").innerHTML = "Crédit: " + credit;
 			}else{
 			
-
 			}
 		} 
 		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
@@ -51844,19 +51404,13 @@ if(slot1 == slot2 || slot1 == slot3 || slot2 == slot3){
 		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
 			window.alert("vous avez perdu !");
 			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}*/
-		
-	}
-	
-	
+		}	
 }
 function drawImages(canvasslot, imgsrc, topspin)
-{
-	
+{	
     var c=document.getElementById(canvasslot);
     var context=c.getContext("2d");
-	context.clearRect(0, 0, c.width, c.height);
-	
+	context.clearRect(0, 0, c.width, c.height);	
 	var img = new Image();
     img.onload = function () {
 		context.drawImage(img, 65,topspin,img.width,img.height,65,topspin,150,75);
@@ -51864,115 +51418,9 @@ function drawImages(canvasslot, imgsrc, topspin)
 	img.src = imgsrc ;   
 	img.id = canvasslot + "img";
 }
-function ClearCanvas(canvasslot){
+function ClearCanvas(canvasslot)
+{
 	var c=document.getElementById(canvasslot);
     var context=c.getContext("2d");
 	context.clearRect(0, 0, c.width, c.height);
-}
-
-//add 40 ms between all the differents images
-/* function SpinAnimationAllImages(stopimage, loopnumber, canvasslot){
-	//--canvasslot1---------------------------------------
-	var loopfnumber = 1;
-	while(loopfnumber <= loopnumber){
-		if(loopfnumber == 1){
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/Slot_Grapes.png",canvasslot);	
-			},40);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/clover.png",canvasslot);	
-			},40);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/bells-32.png",canvasslot);	
-			},40);					
-			setTimeout(function(){
-			CanvasClear('canvasslot1');
-			SpinAnimation("images/cherry.png",canvasslot);	
-			},40);						
-		}else{
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			},40);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/Slot_Grapes.png",canvasslot);	
-			},40);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/clover.png",canvasslot);	
-			},40);
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/bells-32.png",canvasslot);	
-			},40);					
-			setTimeout(function(){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/cherry.png",canvasslot);	
-			},40);		
-		}
-		loopfnumber = loopfnumber + 1;
-	}
-		if(stopimage == 1){
-			CanvasClear(canvasslot);
-			drawImagesAnimation(canvasslot, "images/lucky-seven.png", 17.5);
-			setTimeout(function(){
-				CanvasClear(canvasslot);
-				drawImagesAnimation(canvasslot, "images/lucky-seven.png", 35);
-			},80);
-		}else if(stopimage == 2){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			CanvasClear(canvasslot);
-			drawImagesAnimation(canvasslot, "images/Slot_Grapes.png", 17.5);
-			setTimeout(function(){
-				CanvasClear(canvasslot);
-				drawImagesAnimation(canvasslot, "images/Slot_Grapes.png", 35);
-			},80);			
-		}else if(stopimage == 3){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/Slot_Grapes.png",canvasslot);
-			CanvasClear(canvasslot);
-			drawImagesAnimation(canvasslot, "images/clover.png", 17.5);
-			setTimeout(function(){
-				CanvasClear(canvasslot);
-				drawImagesAnimation(canvasslot, "images/clover.png", 35);
-			},80);					
-			
-		}else if(stopimage == 4){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/Slot_Grapes.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/clover.png",canvasslot);
-			CanvasClear(canvasslot);
-			drawImagesAnimation(canvasslot, "images/bells-32.png", 17.5);
-			setTimeout(function(){
-				CanvasClear(canvasslot);
-				drawImagesAnimation(canvasslot, "images/bells-32.png", 35);
-			},80);					
-		}else if(stopimage == 5){
-			CanvasClear(canvasslot);
-			SpinAnimation("images/lucky-seven.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/Slot_Grapes.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/clover.png",canvasslot);
-			CanvasClear(canvasslot);
-			SpinAnimation("images/bells-32.png",canvasslot);
-			CanvasClear(canvasslot);
-			drawImagesAnimation(canvasslot, "images/bells-32.png", 17.5);
-			setTimeout(function(){
-				CanvasClear(canvasslot);
-				drawImagesAnimation(canvasslot, "images/cherry.png", 35);
-			},80);
-		}
-	//--------------------------------------------------
-	} */
+}*/
