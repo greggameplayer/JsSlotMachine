@@ -2,8 +2,14 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+	<script src="https://cdn.logrocket.com/LogRocket.min.js"></script>
+	
+	<script type="text/javascript" src="js/LogRocketInit.js"></script>
 	<link rel="stylesheet" href="styles/style.css"/>
+	<script type="text/javascript" src="js/Functions.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src="js/EventListener.js"></script>
+
 	<title>Bandit Manchot - Slot Machine</title> 
 </head>
 <body>
@@ -16,13 +22,24 @@
 			</nav>
 		</header>
 		<section id="slotmachinesection">
+		    <p id="rules">
+				Régles :
+				<br>Cliquer sur le bouton spin pour
+				<br>lancer le tirage.
+				<br>
+				<br>Si vous tombez sur 2 même signes
+				<br>votre mise est multiplié par 2.
+				<br>
+				<br>Si vous tombez sur 3 même signes
+				<br>votre mise est multiplié par 10.
+			</p>
 		    <p id="credit">Crédit: 50</p>
 			<p id="bet">Mise : 5</p>
 			<center><img id="slotmachine" src="images/slot-machine.png"/></center>
 			<canvas id="canvasslot1"></canvas>
 			<canvas id="canvasslot2"></canvas>
 			<canvas id="canvasslot3"></canvas>
-			<button id="spinbutton" onclick="Spin()">Spin !</button>
+			<button id="spinbutton">Spin !</button>
 		</section>
 
 		<footer>
