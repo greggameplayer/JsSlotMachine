@@ -6,13 +6,11 @@ if((slot1 == slot2 || slot1 == slot3 || slot2 == slot3) && (slot1 != slot2 || sl
 				credit = credit + (bet * 2);
 				document.getElementById("credit").innerHTML = "Crédit: " + credit;
 			
-		} 
-		if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
+		}else if(slot1 == slot2 && slot1 == slot3 && slot2 == slot3){
 			window.alert("Vous avez gagné 10 fois la mise !");
 			credit = credit + (bet * 10);
 			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}
-		if(slot1 != slot2 && slot1 != slot3 && slot2 != slot3){	
+		}else{	
 			window.alert("vous avez perdu !");
 			document.getElementById("credit").innerHTML = "Crédit: " + credit;
 		}	
