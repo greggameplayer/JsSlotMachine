@@ -4,16 +4,17 @@ if((slot1 === slot2 || slot1 === slot3 || slot2 === slot3) && (slot1 !== slot2 |
 			
 				window.alert("Vous avez gagné 2 fois la mise !");
 				credit = credit + (bet * 2);
-				document.getElementById("credit").innerHTML = "Crédit: " + credit;
-			
-		}else if(slot1 === slot2 && slot1 === slot3 && slot2 === slot3){
+				document.getElementById("credit").innerHTML = "Crédit: " + credit;	
+}else{		
+		if(slot1 === slot2 && slot1 === slot3 && slot2 === slot3){
 			window.alert("Vous avez gagné 10 fois la mise !");
 			credit = credit + (bet * 10);
 			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}else{	
+		}else{
 			window.alert("vous avez perdu !");
 			document.getElementById("credit").innerHTML = "Crédit: " + credit;
-		}	
+		}
+	}
 }
 function drawImages(canvasslot, imgsrc, topspin)
 {	
