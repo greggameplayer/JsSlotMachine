@@ -6,7 +6,6 @@ var slotexec = 1;
 var win = new Audio('sounds/win.wav');
 var lose = new Audio('sounds/lose.mp3');
 var jackpot = new Audio('sounds/jackpot.wav');
-
 function winlosenotif()
 {
 if((slot1 === slot2 || slot1 === slot3 || slot2 === slot3) && (slot1 !== slot2 || slot1 !== slot3 || slot2 !== slot3)){
@@ -29,11 +28,11 @@ if((slot1 === slot2 || slot1 === slot3 || slot2 === slot3) && (slot1 !== slot2 |
 }
 function drawImages(canvasslot, imgsrc, topspin)
 {	
-    var c=document.getElementById(canvasslot);
-    var context=c.getContext("2d");
+	var c=document.getElementById(canvasslot);
+	var context=c.getContext("2d");
 	context.clearRect(0, 0, c.width, c.height);	
 	var img = new Image();
-    img.onload = function () {
+	img.onload = function () {
 		context.drawImage(img, 65,topspin,img.width,img.height,65,topspin,150,75);
 	}
 	img.src = imgsrc ;   
@@ -42,11 +41,10 @@ function drawImages(canvasslot, imgsrc, topspin)
 function ClearCanvas(canvasslot)
 {
 	var c=document.getElementById(canvasslot);
-    var context=c.getContext("2d");
+	var context=c.getContext("2d");
 	context.clearRect(0, 0, c.width, c.height);
 }
 function ImgAnim1(imgstop1, imgstop2, imgstop3){
-
 	if(slotexec === 1){
 	if(countimg === 1){
 	drawImages('canvasslot1', "images/lucky-seven.png", (-25 + count));
@@ -66,13 +64,12 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 	countimg++;
 	}
 	if(countimg > 5){
-		    if(imgstop1 === 1){
+			if(imgstop1 === 1){
 
 			drawImages('canvasslot1', "images/lucky-seven.png", (-25 + count));
 			
 
 			}else if(imgstop1 === 2){
-
 
 			drawImages('canvasslot1', "images/Slot_Grapes.png", (-25 + count));	
 
@@ -89,7 +86,6 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 			drawImages('canvasslot1', "images/bells-32.png", (-25 + count));	
 			
 
-
 			}else if(imgstop1 === 5){
 		
 			drawImages('canvasslot1', "images/cherry.png", (-25 + count));	
@@ -105,7 +101,6 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 			}
 		
 	}
-
 	} else if(slotexec === 2){
 			if(countimg === 1){
 	drawImages('canvasslot2', "images/lucky-seven.png", (-25 + count));
@@ -146,7 +141,6 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 			}
 		
 	}
-
 	}else if(slotexec === 3){
 	if(countimg === 1){
 	drawImages('canvasslot3', "images/lucky-seven.png", (-25 + count));
@@ -166,7 +160,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 	countimg++;
 	}
 	if(countimg > 5){
-		    if(imgstop3 === 1){
+			if(imgstop3 === 1){
 			drawImages('canvasslot3', "images/lucky-seven.png", (-25 + count));
 			}else if(imgstop3 === 2){
 			drawImages('canvasslot3', "images/Slot_Grapes.png", (-25 + count));				
@@ -182,7 +176,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 				
 					winlosenotif();
 					document.getElementById('spinbutton').disabled = false;	
-				    clearInterval(functionanimdebut);
+					clearInterval(functionanimdebut);
 				
 			}
 		
