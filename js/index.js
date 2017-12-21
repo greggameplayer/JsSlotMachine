@@ -9,8 +9,10 @@ var loop3;
 var nbrebutton = 0;
 var imgsrcsave;
 var nbrefunction = 0;
+var start = new Audio('sounds/start.wav');
 function Spin()
 {
+	start.play();
 	document.getElementById('spinbutton').disabled = true;
 	if(credit < bet){ // test si crédit inférieur à 5
 	    document.getElementById('spinbutton').disabled = false;
