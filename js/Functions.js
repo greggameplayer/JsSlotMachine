@@ -3,10 +3,10 @@ var countimg = 1;
 var countimgfinal = 1;
 var functionanimdebut;
 var slotexec = 1;
-var ms = 100;
 var win = new Audio('sounds/win.wav');
 var lose = new Audio('sounds/lose.mp3');
 var jackpot = new Audio('sounds/jackpot.wav');
+
 function winlosenotif()
 {
 if((slot1 === slot2 || slot1 === slot3 || slot2 === slot3) && (slot1 !== slot2 || slot1 !== slot3 || slot2 !== slot3)){
@@ -46,6 +46,7 @@ function ClearCanvas(canvasslot)
 	context.clearRect(0, 0, c.width, c.height);
 }
 function ImgAnim1(imgstop1, imgstop2, imgstop3){
+
 	if(slotexec === 1){
 	if(countimg === 1){
 	drawImages('canvasslot1', "images/lucky-seven.png", (-25 + count));
@@ -72,6 +73,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 
 			}else if(imgstop1 === 2){
 
+
 			drawImages('canvasslot1', "images/Slot_Grapes.png", (-25 + count));	
 
 			
@@ -86,6 +88,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 
 			drawImages('canvasslot1', "images/bells-32.png", (-25 + count));	
 			
+
 
 			}else if(imgstop1 === 5){
 		
@@ -102,6 +105,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 			}
 		
 	}
+
 	} else if(slotexec === 2){
 			if(countimg === 1){
 	drawImages('canvasslot2', "images/lucky-seven.png", (-25 + count));
@@ -142,6 +146,7 @@ function ImgAnim1(imgstop1, imgstop2, imgstop3){
 			}
 		
 	}
+
 	}else if(slotexec === 3){
 	if(countimg === 1){
 	drawImages('canvasslot3', "images/lucky-seven.png", (-25 + count));
